@@ -1,0 +1,42 @@
+
+body{
+	background: #d2d2c1 url('imagens/capa.png');/*cor e imagem de fundo*/
+	font: 16px Arial, Helvetica, sans-serif;/*fonte do body*/
+}
+
+#principal{/*div principal para tudo ficar dentro de uma caixa*/
+
+	width: 900px;
+	
+}
+
+#menu{
+	background: #c5c5b2;/*cor do menu de navegação*/
+	padding: 18px;/*espaçamento interno*/
+}
+
+#conteudo{
+	background: #e8e8d9;/*cor do fundo do bloco do conteudo*/
+	padding: 10px;/*espaçamento interno do bloco do conteudo*/
+}
+
+a{
+	color: #4b566a;/*cor dos links*/
+	text-decoration: none;/*tira o sublinhado dos links*/
+	font-weight: bold;/*muda a fonte*/
+	padding: 5px;/*espaçamento entre os links do menu*/
+}
+
+#rodape{
+	text-align: center;/*alinha o bloco do rodapé*/
+}
+
+.img-campanha{
+	border: 10px solid #c3c3ae;/*põe a borda nas imagens e define a cor da borda*/
+}
+
+h1{
+	color: #828271;/*cor do h1*/
+	font-size: 1.2em;/*fonte do h1*/
+}
+
