@@ -1,6 +1,6 @@
 
 body{
-	background: #d2d2c1 url('imagens/capa.png');/*cor e imagem de fundo*/
+	background: #d2d2c1 url('../imagens/fundo.png');/*cor e imagem de fundo*/
 	font: 16px Arial, Helvetica, sans-serif;/*fonte do body*/
 }
 
